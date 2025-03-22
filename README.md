@@ -1,4 +1,4 @@
-# 🌊 Water Quality Management System (WRMS)
+# 🌊 Water Resource Management System (WRMS)
 
 ## 📌 Project Overview
 The **Water Quality Management System (WRMS)** is a **web-based application** designed to help **communities monitor water quality** using **crowd-sourced images**. The system **analyzes water clarity, pollution levels, and potential health risks** by leveraging **Digital Image Processing (DIP)** and **cloud-based data storage**.
