@@ -37,7 +37,8 @@ The system follows a **MERN stack architecture** integrated with **cloud-based s
 User → React.js Frontend → Express.js API → MongoDB (Data) / AWS S3 (Images) / OpenCV.js (Analysis)
 ```
 ## Use Case Diagram
-![UseCase_diagram](UseCase_diagram.png)
+![UseCase_diagram](./UseCase_diagram.png)
+
 
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
